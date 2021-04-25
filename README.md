@@ -13,7 +13,7 @@ Application with a clean architecture this built with
  
  [![Screenshot](googlePlay.png)](https://play.google.com/store/apps/details?id=ar.com.mealapp)
  
- #Architecture
+#Architecture
  
 ![Screenshot](final_architecture.png) 
 
