@@ -15,7 +15,7 @@ Application with a clean architecture this built with
  
  #Architecture
  
-![Screenshot](finalarchitecture.png) 
+![Screenshot](final_architecture.png) 
 
 # Screen
 
